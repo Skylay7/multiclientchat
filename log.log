@@ -1,0 +1,13 @@
+2025-02-06 11:06:45,981 -INFO - New client ('192.168.1.154', 64531) joined!
+2025-02-06 11:06:45,981 -INFO - Assigned UUID c5dae481-0d18-4031-a63d-fbf58b59a45e to ilay
+2025-02-06 11:07:16,308 -INFO - New client ('192.168.1.154', 64532) joined!
+2025-02-06 11:07:16,309 -INFO - Assigned UUID fea01a58-871c-418c-9117-9335ad0dc700 to guti
+2025-02-06 11:07:32,287 -INFO - ilay Started ShareScreen
+2025-02-06 11:07:54,050 -INFO - guti Joined ilay Stream
+2025-02-06 11:08:26,774 -ERROR - Client crashed: ('192.168.1.154', 64531)
+2025-02-06 11:08:26,775 -INFO - User ilay disconnected.
+2025-02-06 11:08:26,775 -WARNING - Attempt to get non-existent socket: <socket.socket [closed] fd=-1, family=2, type=1, proto=0>
+2025-02-06 11:08:42,345 -ERROR - Client crashed: ('192.168.1.154', 64532)
+2025-02-06 11:08:42,345 -INFO - guti Joined ilay Stream
+2025-02-06 11:08:42,346 -INFO - User guti disconnected.
+2025-02-06 11:08:42,346 -WARNING - Attempt to get non-existent socket: <socket.socket [closed] fd=-1, family=2, type=1, proto=0>
